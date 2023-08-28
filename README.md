@@ -1,1 +1,1 @@
-# RNN-w-Word2Vec
+# LSTM-w-Word2Vec
